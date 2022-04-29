@@ -1,0 +1,11 @@
+.default {
+
+}
+
+.default:hover {
+    border: 2px solid gray;
+}
+
+.red {
+    background: red;
+}
